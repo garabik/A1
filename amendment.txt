@@ -1,0 +1,9 @@
+# text to amend existing licenses with, to be able to upload the data to ELRC-SHARE and make it acceptable
+
+The work can be used for linguistic research and to train machine translation
+systems. The licensee can upload the work to the ELRC-SHARE platform, a
+repository used for documenting, storing, browsing and accessing language data
+and tools that are pertinent to Automated Translation and considered useful for
+feeding CEF eTranslation, the European Commission's Automated Translation
+platform.
+
